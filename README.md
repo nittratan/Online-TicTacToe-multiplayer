@@ -1,19 +1,19 @@
 # Online-TicTacToe-multiplayer Using Java
-CA727 Computer Networks Projects
-**Getting started
-**
-Prerequisites
+# CA727 Computer Networks Projects
+# Getting started
+
+# Prerequisites
 *JAVA 1.6
 *JRE
-Build and Run
-Open Two Different Terminal
-Terminal 1
+# Build and Run
+# Open Two Different Terminal
+# Terminal 1
 C:\Users\Ratan_Sharma\Desktop\tictactoe>java TicTacToe
 Please input the IP:
 127.0.0.1
 Please input the port:
 22222
-Terminal 2
+# Terminal 2
 C:\Users\Ratan_Sharma\Desktop\tictactoe>java TicTacToe
 Please input the IP:
 127.0.0.1
