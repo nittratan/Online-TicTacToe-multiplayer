@@ -20,7 +20,7 @@ Please input the IP:
 Please input the port:
 22222
 
-How To Play ?
+# How To Play ?
 Design a Tic-tac-toe game that is played between two players on a n x n grid.
 You may assume the following rules:
 A move is guaranteed to be valid and is placed on an empty block.
